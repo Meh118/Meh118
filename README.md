@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-My name is Jasir Gordon-Jones 
-Im currently working on prework for Tech Elevator 
+My name is Jasir Gordon-Jones, 
+I'm currently working on prework for Tech Elevator. 
 A fun fact about me is that I played baseball through out middle school and high school. 
 My hobbies are playing video games, reading from time to time, and going to the batting cage.
